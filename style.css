@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: #122;
+}
+a {
+    text-decoration: none;
+}
+h2,h3 {
+    margin: 0;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.navbar {
+    background-color: #fff;
+}
+.brand {
+    font-family: 'Raleway', sans-serif;
+}
